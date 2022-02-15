@@ -4,11 +4,11 @@ Fill in your information in the configuration variables below
 
 traits = [
     "Background", 
-    "Pumpkin Color",
+    "Glasses",
     "Headwear",
     "Mouth",
     "Nose",
-    "Extras",
+    "Arm",
     "Eyes"
 ] # The different layers and the order that they will be used - MUST be same as trait layer folders
 imageCount = 1 # Total number of images to create
