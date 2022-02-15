@@ -1,6 +1,4 @@
-**NFT-Generator** is the best way to generate thousands of NFTs quick and easily with Python. Just add your files, set your configuration and run the script. You'll get all the images and metadata required for your NFT project!
-
-## How to use?
+Follow these Steps to make thousands of custom NFTs:
 1. Clone the repo by running `git clone https://github.com/itshydrone/NFT-Generator.git`
 2. Enter the downloaded directory by typing `cd NFT-Generator`
 3. Install the dependencies by running `pip install -r requirements.txt`
