@@ -1,5 +1,5 @@
 """
-Fill in your information in the configuration variables below
+Fill in your information in the configuration variables below. The traits must be types EXACTLY how the folders are labeled
 """
 
 traits = [
